@@ -1,0 +1,40 @@
+[ Fragment ]
+https://korean-otter.tistory.com/entry/android-kotlin-Fragment-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+
+[ Class ]
+https://velog.io/@conatuseus/Kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC-open-internal-companion-data-class-%EC%9E%91%EC%84%B1%EC%A4%91
+
+[ Button ]
+https://fflask.tistory.com/69
+
+[ finish() ]
+finishAffinity(): https://salix97.tistory.com/251
+finishAffinity() 사용시 주의점: https://androbook.tistory.com/entry/finishActivity%EB%8A%94-%EC%85%80%ED%94%84-%EC%A2%85%EB%A3%8C%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4
+
+[ 꾸미기 ]
+background color: https://binshuuuu.tistory.com/103
+색상 코드 사이트: https://encycolorpedia.com/
+버튼 색상 변경: https://crone.tistory.com/341
+theme: https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=ko
+Layout 비율: https://yongtech.tistory.com/103
+투명도: https://pimi.tistory.com/5
+
+[ 이미지 ]
+img 키보드 원본: https://pixabay.com/ko/vectors/%ED%82%A4%EB%B3%B4%EB%93%9C-%EC%9E%90%ED%8C%90-%ED%83%80%EC%9E%90%EA%B8%B0-%EC%BB%B4%ED%93%A8%ED%84%B0-2170063/
+img 손 원본: https://pixabay.com/ko/vectors/%eb%b9%88%ed%8b%b0%ec%a7%80-%ea%b3%a8%ea%b2%a9-%eb%b9%88%ed%8b%b0%ec%a7%80%eb%a6%bc-%ec%86%90-2417799/
+손목 운동: https://www.100ssd.co.kr/news/articleView.html?idxno=70580
+눈 운동: https://www.etoday.co.kr/news/view/848922
+Home 배경: https://pixabay.com/ko/vectors/%eb%a7%88%eb%8d%94%eb%b3%b4%eb%93%9c-%ed%9a%8c%eb%a1%9c-%eb%8b%a4%ec%9d%b4%ec%96%b4%ea%b7%b8%eb%9e%a8-%ed%9a%8c%eb%a1%9c-152501/
+
+[ 에러 'Button should be borderless' ]
+https://www.titanwolf.org/Network/q/28b36ea2-922d-4065-a4e2-af23732ea7e9/y
+
+[ PPT 템플릿 ]
+https://yusaebyeol.blogspot.com/2020/01/free-powerpoint-template-download-2020.html
+
+view가 로드 되면 버튼이 보이지 않는 문제가 있음...
+-> activity_main.xml 에서 화면 크기 조절
+
+버튼 색상이 적용되지 않는 문제
+-> Theme.xml 파일을 쓴다
+
