@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+
+    <string name="text_btn_home">홈</string>
+    <string name="text_btn_health">건강</string>
+    <string name="text_btn_stretch">스트레칭</string>
+    <string name="text_btn_exit">종료</string>
+    <string name="text_btn_me">내 정보</string>
+
+    <string name="title_home">HOME</string>
+
+    <string name="text_text_health">건강</string>
+    <string name="text_keyboard_normal">
+        열심히 공부한 당신! 혹시 손목/손가락 통증을 느끼시진 않나요? \n
+        프로그래머에게 손은 가장 중요한 도구 중 하나입니다. \n
+        아프지 않도록 잘 관리 합시다.
+    </string>
+    <string name="title_wrist">손목 통증</string>
+    <string name="text_keyboard_split">
+        만약 손목 통증이 심하다면, \n
+        분리형 키보드를 쓰는 것을 고려해볼 수 있겠습니다. \n\n
+    </string>
+    <string name="title_thumb">손가락 통증</string>
+    <string name="text_keyboard_mechanical">
+        만약 손가락 통증이 심하다면, \n
+        낮은 키압의 기계식 키보드를 쓰는 것을 추천합니다. \n\n
+    </string>
+    <string name="text_keyboard_me">
+        제가 사용 중인 키보드는 GTune GK700, 백축 입니다. \n
+        &#160;&#160;&#160; 크기: 노트북 키보드를 이용하다가 쓰게 되어 체감상 큰 편입니다. 저와 손 크기가 비슷할 여성분들은 참고하시면 좋겠습니다.\n
+        &#160;&#160;&#160; 성능: 손가락 부담이 많이 덜어졌습니다. 대신 손목이 아픕니다. \n
+        마우스는 TG-TM137U 버티컬 마우스를 씁니다. \n
+        &#160;&#160;&#160; 크기: 적당합니다. \n
+        &#160;&#160;&#160; 성능: 손목이 편하지만, 버튼이 무거워서 손가락 통증이 찾아왔습니다... \n
+        아무래도 손목과 손가락을 둘 다 만족시키는 제품은 찾기가 힘든 모양입니다.
+    </string>
+
+    <string name="text_text_stretch_wrist">손목 스트레칭을 해 봅시다.</string>
+    <string name="text_text_stretch_eye">눈 운동도 한 번 해 봅시다.</string>
+
+    <string name="title_me">My Info</string>
+    <string name="text_me">
+        Major: Software \n
+        Student No: 2019875071 \n
+        Grade: 3th \n
+        Name: Seyeon Heo \n
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
